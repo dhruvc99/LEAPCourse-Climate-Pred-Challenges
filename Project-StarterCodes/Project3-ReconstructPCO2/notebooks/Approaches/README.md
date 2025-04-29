@@ -1,0 +1,1 @@
+Please note that if running these notebooks directly, you may need to adjust the statement in the import cells to ensure `print("Current working directory:", os.getcwd())` outputs the head directory i.e. `.../Project-StarterCode/Project3-ReconstructPCO2/`.
